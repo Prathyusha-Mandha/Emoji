@@ -1,0 +1,125 @@
+.ears{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    position: fixed;
+    width:250px;
+    margin: auto;
+   margin-top: 199px;
+   margin-left: 625px;
+    
+}
+#eleft{
+    height: 100px;
+    width: 100px;
+    background-color: lightpink;
+    border:2px solid black;
+    border-radius:50% 50% 0% 0%;
+    left:-16%;
+    top:-5%;
+    margin-left: 55px;
+    margin-top: -15px;
+}
+#eright{
+    height: 100px;
+    width: 100px;
+    background-color: lightpink;
+    border:2px solid black;
+    border-radius:50% 50% 0% 0%;
+    margin-right: 11px;
+    margin-top: -15px;
+}
+.face{
+    height: 200px;
+    width:200px;
+    margin:auto;
+    border-radius: 50%;
+    border:2px solid black;
+    background-color: lightpink;
+    position:fixed;
+    margin-left: 671px;
+    margin-top: 200px;
+}
+.eyes
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+.leye{
+    height:39px;
+    width:39px;
+    border: 2px solid white ;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 21%;
+}
+#a{
+
+    height:19px;
+    width:19px;
+    border-radius: 50%;
+    border:2px solid black;
+    background-color: black;
+    margin-top: 29%;
+    margin-left: 24%;
+   
+}
+.reye{
+    height:39px;
+    width:39px;
+    border: 2px solid white ;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 21%;
+    
+}
+#b{
+
+    height:19px;
+    width:19px;
+    border-radius: 50%;
+    border:2px solid black;
+    background-color: black;
+    margin-top: 29%;
+    margin-left: 24%;
+}
+.nose
+{
+    height:40px;
+    width:79px;
+    border:2px solid black;
+    margin-top:16%;
+    margin-left: 30%;
+    background-color: red;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#o1{
+    height:19px;
+    width:19px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 8px;
+    margin-left:5px;
+}
+#o2{
+    height:19px;
+    width:19px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 8px;
+    margin-left:4px;
+}
+
+
+
+
+
+
+
